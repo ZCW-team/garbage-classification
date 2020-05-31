@@ -37,3 +37,4 @@ python版本为3.6，具体的函数包如下：
 3. 单张显卡的话，修改arg.py 85行 parser.add_argument('--gpu-id', default='0, 1, 2, 3' 为'--gpu-id', default='0'，同时修改 '--train-batch'，'--test-batch'为适当的数字
 4. 运行train.py
 5.其中args.py文件存放了读取数据集的路径，以及保存模型结果的路径，在本地运行的时候需要修改自身配置的路径
+
