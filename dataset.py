@@ -8,7 +8,7 @@ import six
 import sys
 from PIL import Image
 import numpy as np
-
+#
 class Dataset(Dataset):
     def __init__(self, root=None, transform=None, target_transform=None, to=None):
         if '.txt' in root:
