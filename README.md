@@ -20,7 +20,7 @@
 
 ### 2. 环境设置
 
-可以直接通过`pip install -r requirements.txt`安装指定的函数包，python版本为3.6，具体的函数包如下：
+python版本为3.6，具体的函数包如下：
 
 * pytorch>=1.0.1
 * torchvision==0.2.2
