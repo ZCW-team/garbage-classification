@@ -35,6 +35,7 @@ python版本为3.6，具体的函数包如下（其实只要是最新版本的�
 ## 3.运行步骤
 
 1. 建立文件夹data，把garbage_classify全部解压缩到data下
+这里附上数据集的下载地址：链接：https://pan.baidu.com/s/1ZI1SNIJGKF1QD8AN3ggfeg  提取码：m7dt
 
 2. 运行preprocess.py，生成训练集和测试集运行文
 
